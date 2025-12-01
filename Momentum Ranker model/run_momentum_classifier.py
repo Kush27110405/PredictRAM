@@ -2,7 +2,6 @@
 # run_regressor_selection_pipeline_permfix_ranker_fix_cross_ticker_with_save.py
 """
 Analyst :- Kush Milkesh Mistry
-Analyst ID:- kushmistry2021
 ML Model name :- Momentum Ranker
 
 This model looks at past price moves and technical indicators to estimate which dates/tickers are most likely to produce positive returns over a short future horizon (default 5 trading days). 
@@ -1022,3 +1021,4 @@ if __name__ == "__main__":
     pd.DataFrame(rows).to_csv("results/cross_ticker_summary.csv", index=False)
     print("\nCross-ticker run finished. Summary saved to results/cross_ticker_summary.csv")
     print(f"Total elapsed time: {time.time() - t0:.1f}s")
+
