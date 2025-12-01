@@ -1,0 +1,18 @@
+{
+  "feature_list": [
+    "macd_hist",
+    "ret_63_volnorm",
+    "ret_21",
+    "ret_10",
+    "ret_21_volnorm",
+    "rsi14",
+    "ret_21_z",
+    "bb_percent"
+  ],
+  "HORIZON": 5,
+  "model_type": "ranker",
+  "train_end_date": "2025-11-21",
+  "saved_at": "2025-11-29T17:27:59.605409Z",
+  "notes": "Final model trained on full history for HDFCBANK.NS using TOP_8 features",
+  "version": "v1"
+}

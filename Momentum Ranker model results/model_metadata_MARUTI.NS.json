@@ -1,0 +1,18 @@
+{
+  "feature_list": [
+    "ema_diff",
+    "ret_10",
+    "ret_21",
+    "rsi14",
+    "macd_hist",
+    "ret_3",
+    "ret_63",
+    "sma50_slope"
+  ],
+  "HORIZON": 5,
+  "model_type": "ranker",
+  "train_end_date": "2025-11-21",
+  "saved_at": "2025-11-29T13:06:13.709724Z",
+  "notes": "Final model trained on full history for MARUTI.NS using TOP_8 features",
+  "version": "v1"
+}

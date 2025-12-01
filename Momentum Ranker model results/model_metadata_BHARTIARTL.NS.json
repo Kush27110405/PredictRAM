@@ -1,0 +1,18 @@
+{
+  "feature_list": [
+    "bb_percent",
+    "ret_10",
+    "sma10_sma50",
+    "macd_hist",
+    "ema_diff",
+    "ret_21",
+    "ret_5",
+    "ret_21_z"
+  ],
+  "HORIZON": 5,
+  "model_type": "ranker",
+  "train_end_date": "2025-11-24",
+  "saved_at": "2025-12-01T06:26:57.328017Z",
+  "notes": "Final model trained on full history for BHARTIARTL.NS using TOP_8 features",
+  "version": "v1"
+}

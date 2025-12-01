@@ -1,0 +1,18 @@
+{
+  "feature_list": [
+    "rsi14",
+    "macd_hist",
+    "sma10_sma50",
+    "ema_diff",
+    "ret_21_volnorm",
+    "atr14",
+    "ret_63_volnorm",
+    "ret_63_z"
+  ],
+  "HORIZON": 5,
+  "model_type": "ranker",
+  "train_end_date": "2025-11-21",
+  "saved_at": "2025-11-29T16:45:40.407833Z",
+  "notes": "Final model trained on full history for TCS.NS using TOP_8 features",
+  "version": "v1"
+}

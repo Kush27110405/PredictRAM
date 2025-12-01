@@ -1,0 +1,18 @@
+{
+  "feature_list": [
+    "rsi14",
+    "bb_percent",
+    "ret_10",
+    "ret_126",
+    "vol_63",
+    "ret_63_z",
+    "ret_5",
+    "vol_21"
+  ],
+  "HORIZON": 5,
+  "model_type": "ranker",
+  "train_end_date": "2025-11-21",
+  "saved_at": "2025-11-29T12:27:46.490888Z",
+  "notes": "Final model trained on full history for RELIANCE.NS using TOP_8 features",
+  "version": "v1"
+}

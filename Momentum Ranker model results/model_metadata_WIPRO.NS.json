@@ -1,0 +1,18 @@
+{
+  "feature_list": [
+    "rsi14",
+    "ema_diff",
+    "ret_21_z",
+    "sma10_sma50",
+    "ret_21_volnorm",
+    "atr14",
+    "vol_63",
+    "ret_1"
+  ],
+  "HORIZON": 5,
+  "model_type": "ranker",
+  "train_end_date": "2025-11-24",
+  "saved_at": "2025-12-01T07:06:52.418108Z",
+  "notes": "Final model trained on full history for WIPRO.NS using TOP_8 features",
+  "version": "v1"
+}
