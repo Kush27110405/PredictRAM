@@ -1022,3 +1022,4 @@ if __name__ == "__main__":
     print("\nCross-ticker run finished. Summary saved to results/cross_ticker_summary.csv")
     print(f"Total elapsed time: {time.time() - t0:.1f}s")
 
+
